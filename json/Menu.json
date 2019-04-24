@@ -1,17 +1,22 @@
 [
   {
-    "title": "Home"
+    "title": "Home",
+    "path": "/"
   },
   {
-    "title": "Nexle"
+    "title": "Nexle",
+    "path": "/nexle"
   },
   {
-    "title": "IPMS"
+    "title": "IPMS",
+    "path": "/ipms"
   },
   {
-    "title": "Example 1"
+    "title": "Example 1",
+    "path": "/example-1"
   },
   {
-    "title": "Example 2"
+    "title": "Example 2",
+    "path": "/example-2"
   }
 ]
