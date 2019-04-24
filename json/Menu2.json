@@ -1,0 +1,162 @@
+{
+  "Success": true,
+  "Message": null,
+  "Data": [
+    {
+      "Id": 1,
+      "Label": "Home",
+      "ParentId": 0
+    },
+    {
+      "Id": 101,
+      "Label": "Serch All Clients",
+      "ParentId": 1
+    },
+    {
+      "Id": 2,
+      "Label": "Practice",
+      "ParentId": 0
+    },
+    {
+      "Id": 201,
+      "Label": "Workflow",
+      "ParentId": 2
+    },
+    {
+      "Id": 202,
+      "Label": "Live Lead Management",
+      "ParentId": 2
+    },
+    {
+      "Id": 3,
+      "Label": "BAS",
+      "ParentId": 0
+    },
+    {
+      "Id": 301,
+      "Label": "Annual Compliance",
+      "ParentId": 3
+    },
+    {
+      "Id": 30101,
+      "Label": "Contracted ACQs (Grouped)",
+      "ParentId": 301
+    },
+    {
+      "Id": 30102,
+      "Label": "Contracted ACQs (Entities)",
+      "ParentId": 301
+    },
+    {
+      "Id": 30106,
+      "Label": "Incomplete Links/Delinks",
+      "ParentId": 301
+    },
+    {
+      "Id": 30103,
+      "Label": "Receiving ACQs (Grouped)",
+      "ParentId": 301
+    },
+    {
+      "Id": 30104,
+      "Label": "Receiving ACQs (Entities)",
+      "ParentId": 301
+    },
+    {
+      "Id": 30105,
+      "Label": "Workflow Management",
+      "ParentId": 301
+    },
+    {
+      "Id": 302,
+      "Label": "GST",
+      "ParentId": 3
+    },
+    {
+      "Id": 30201,
+      "Label": "Current Clients",
+      "ParentId": 302
+    },
+    {
+      "Id": 30202,
+      "Label": "Inductions",
+      "ParentId": 302
+    },
+    {
+      "Id": 30203,
+      "Label": "Workflow",
+      "ParentId": 302
+    },
+    {
+      "Id": 30204,
+      "Label": "Incomplete Setups",
+      "ParentId": 302
+    },
+    {
+      "Id": 303,
+      "Label": "Client Systems",
+      "ParentId": 3
+    },
+    {
+      "Id": 30301,
+      "Label": "Current Clients",
+      "ParentId": 303
+    },
+    {
+      "Id": 30302,
+      "Label": "Inductions",
+      "ParentId": 303
+    },
+    {
+      "Id": 30303,
+      "Label": "Annual Client System Fees",
+      "ParentId": 303
+    },
+    {
+      "Id": 30304,
+      "Label": "Incomplete Setups",
+      "ParentId": 303
+    },
+    {
+      "Id": 304,
+      "Label": "Tax Management",
+      "ParentId": 3
+    },
+    {
+      "Id": 30401,
+      "Label": "Tax-Linked Clients",
+      "ParentId": 304
+    },
+    {
+      "Id": 30402,
+      "Label": "Prov.Tax Clients",
+      "ParentId": 304
+    },
+    {
+      "Id": 305,
+      "Label": "Corporate Affairs",
+      "ParentId": 3
+    },
+    {
+      "Id": 30501,
+      "Label": "Current Clients",
+      "ParentId": 305
+    },
+    {
+      "Id": 30502,
+      "Label": "Inductions",
+      "ParentId": 305
+    },
+    {
+      "Id": 30503,
+      "Label": "Workflow",
+      "ParentId": 305
+    },
+    {
+      "Id": 4,
+      "Label": "AML Clients",
+      "ParentId": 0
+    }
+  ],
+  "ErrorCode": 0
+}
